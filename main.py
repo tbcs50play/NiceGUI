@@ -1,4 +1,4 @@
-import streamlit as sts
+import streamlit as st
 from nicegui import ui
 
 #Welcome me to my app
