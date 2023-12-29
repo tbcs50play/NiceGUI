@@ -1,4 +1,5 @@
 import streamlit as st
+pip install nicegui
 from nicegui import ui
 
 #Welcome me to my app
